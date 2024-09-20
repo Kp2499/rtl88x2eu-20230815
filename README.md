@@ -1,3 +1,5 @@
+#pre-requisites - sudo apt install bc
+
 # rtl88x2eu-20230815
 Linux Driver for WiFi Adapters that are based on the RTL8812EU and RTL8822EU Chipsets, based on driver ```v5.15.0.1-197```
 
